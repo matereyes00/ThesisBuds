@@ -7,3 +7,4 @@ Currently, the repository contains the following files:
 [] QGIS - Sablayan experimentation
 	>> shape files, gpkg (grid files), OSM road networks, CSV files (coordinates), and TIF files (population)
 [] ReadMe - to be consistently updated whenever new files are updated/uploaded
+[] Datasets - as GeoJSON
