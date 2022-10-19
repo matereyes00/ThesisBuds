@@ -1,0 +1,973 @@
+ID,BARANGAY,LAND COVERAGE,RHU
+22,Ligaya,Brush/Shrubs,0
+23,Burgos,Brush/Shrubs,0
+49,Pag-Asa,NULL,0
+50,San Agustin,Built Up,0
+51,San Agustin,Grassland,0
+58,Burgos,Built Up,0
+59,Burgos,NULL,0
+84,San Agustin,Annual Crop,0
+85,San Agustin,Annual Crop,0
+86,Batong Buhay,inland water,0
+87,Batong Buhay,Annual Crop,0
+88,Batong Buhay,Brush/Shrubs,0
+89,Malisbong,Brush/Shrubs,0
+90,Pag-Asa,Annual Crop,0
+91,Pag-Asa,Annual Crop,0
+92,Batong Buhay,Perennial Crop,0
+93,Batong Buhay,Built Up,1
+94,Pag-Asa,Built Up,0
+95,Pag-Asa,Brush/Shrubs,0
+96,Ligaya,NULL,0
+97,Burgos,Perennial Crop,0
+98,Burgos,NULL,0
+100,Burgos,NULL,0
+118,Malisbong,NULL,0
+119,Malisbong,Annual Crop,0
+120,Malisbong,Annual Crop,0
+121,Ligaya,Annual Crop,0
+122,Ligaya,Annual Crop,0
+123,Burgos,Annual Crop,0
+124,Pag-Asa,Annual Crop,0
+125,Pag-Asa,Annual Crop,0
+126,Batong Buhay,Annual Crop,0
+127,Batong Buhay,Brush/Shrubs,0
+128,Pag-Asa,Brush/Shrubs,0
+129,Pag-Asa,Brush/Shrubs,0
+130,Burgos,Brush/Shrubs,0
+131,SanAgustin,Brush/Shrubs,0
+132,San Agustin,Brush/Shrubs,0
+133,San Agustin,Brush/Shubs,0
+134,San Agustin,Annual Crop,0
+135,San Agustin,Annual Crop,0
+136,San Agustin,NULL,0
+154,Burgos,Annual Crop,0
+155,Burgos,Annual Crop,0
+156,Burgos,Annual Crop,0
+157,Ligaya,Annual Crop,0
+158,Malisbong,Annual Crop,0
+159,Malisbong,Annual Crop,0
+160,Pag-Asa,Annual Crop,0
+161,Batong Buhay,Brush/Shrubs,0
+162,Malisbong,Brush/Shubs,0
+163,Malisbong,Brush/Shrubs,0
+164,Ligaya,Brush/Shrubs,0
+165,San Agustin,Brush/Shrubs,0
+166,San Agustin,Brush/Shrubs,0
+167,San Agustin,Brush/Shrubs,0
+168,San Agustin,Brush/Shrubs,0
+169,San Agustin,Annual Crop,0
+170,San Agustin,Annual Crop,0
+171,San Agustin,inland water,0
+188,Pag-Asa,NULL,0
+189,Pag-Asa,Annual Crop,0
+190,San Agustin,Built Up,0
+191,Burgos,Annual Crop,0
+192,Burgos,Annual Crop,0
+193,Malisbong,Annual Crop,0
+194,San Agustin,Annual Crop,0
+195,Batong Buhay,Annual Crop,0
+196,Batong Buhay,Brush/Shrubs,0
+197,Ligaya,Brush/Shrubs,0
+198,Burgos,Brush/Shrubs,0
+199,Burgos,Brush/Shrubs,0
+200,Burgos,Annual Crop,0
+201,San Agustin,Brush/Shrubs,0
+202,San Agustin,Annual Crop,0
+203,Batong Buhay,Annual Crop,0
+204,San Agustin,Grassland,0
+205,San Agustin,Annual Crop,0
+206,San Agustin,NULL,0
+224,San Agustin,Annual Crop,0
+225,San Agustin,Annual Crop,0
+226,Burgos,Barren,0
+227,Burgos,Annual Crop,0
+228,Malisbong,Annual Crop,0
+229,Malisbong,Annual Crop,0
+230,Batong Buhay,Annual Crop,0
+231,Batong Buhay,Brush/Shrubs,0
+232,Batong Buhay,Brush/Shrubs,0
+233,Batong Buhay,Brush/Shrubs,0
+234,Batong Buhay,inland water,0
+235,Malisbong,Annual Crop,0
+236,Malisbong,Annual Crop,0
+237,Malisbong,Grassland,0
+238,Pag-Asa,inland water,0
+239,Pag-Asa,annual Crop,0
+240,Pag-Asa,Brush/Shrubs,0
+241,Pag-Asa,Built Up,0
+258,Batong Buhay,NULL,0
+259,Batong Buhay,annual Crop,0
+260,Batong Buhay,Barren,0
+261,Burgos,annual Crop,0
+262,Burgos,annual Crop,0
+263,Malisbong,annual Crop,0
+264,Malisbong,annual Crop,0
+265,Malisbong,annual Crop,0
+266,Malisbong,Brush/Shrubs,0
+267,Poblacion (Lumangbayan),Brush/Shrubs,0
+268,Poblacion (Lumangbayan),Brush/Shrubs,0
+269,Malisbong,Brush/Shrubs,0
+270,Ligaya,Annual Crop,0
+271,Pag-Asa,Open Forest,0
+272,Pag-Asa,Open Forest,0
+273,San Agustin,Annual Crop,0
+274,Pag-Asa,Annual Crop,0
+275,Burgos,Annual Crop,0
+276,Burgos,Built Up,0
+294,Malisbong,NULL,0
+295,Malisbong,Barren,0
+296,Malisbong,Brush/Shrubs,0
+297,Ligaya,barren,0
+298,Ligaya,Annual Crop,0
+299,Malisbong,annual Crop,0
+300,Ligaya,annual Crop,0
+301,Malisbong,Brush/Shrubs,0
+302,Ligaya,Brush/Shrubs,0
+303,Claudio Salgado,Brush/Shrubs,0
+304,Claudio Salgado,Annual Crop,0
+305,Claudio Salgado,Built Up,0
+306,San Agustin,Open Forest,0
+307,San Agustin,Open Forest,0
+308,Batong Buhay,Open Forest,0
+309,Pag-Asa,Open Forest,0
+310,Pag-Asa,Annual Crop,0
+311,Pag-Asa,Built Up,1
+312,Pag-Asa,Built Up,0
+313,Batong Buhay,NULL,0
+329,Malisbong,NULL,0
+330,Malisbong,barren,0
+331,Ligaya,Brush/Shrubs,0
+332,Burgos,barren,0
+333,Ligaya,Grassland,0
+334,Ligaya,Built Up,0
+335,Burgos,Built Up,0
+336,Burgos,Brush/Shrubs,0
+337,Poblacion (Lumangbayan),Brush/Shrubs,0
+338,Poblacion (Lumangbayan),Annual Crop,0
+339,Batong Buhay,Grassland,0
+340,Batong Buhay,Open Forest,0
+341,Batong Buhay,Open Forest,0
+342,Malisbong,Open Forest,0
+343,Pag-Asa,Open Forest,0
+344,Pag-Asa,Open Forest,0
+345,Pag-Asa,Brush/Shrubs,0
+346,Pag-Asa,Annual Crop,0
+347,Batong Buhay,Brush/Shrubs,0
+348,Malisbong,Brush/Shrubs,0
+349,Malisbong,NULL,0
+366,Burgos,barren,1
+367,Burgos,Built Up,0
+368,Burgos,Grassland,0
+369,Burgos,Grassland,0
+370,San Agustin,Brush/Shrubs,0
+371,San Agustin,Brush/Shrubs,0
+372,Claudio Salgado,Brush/Shrubs,0
+373,Claudio Salgado,inland water,0
+374,Malisbong,Grassland,0
+375,Malisbong,Built Up,0
+376,Malisbong,Open Forest,0
+377,Ligaya,Open Forest,0
+378,Ligaya,Open Forest,0
+379,Pag-Asa,Open Forest,0
+380,Pag-Asa,Brush/Shrubs,0
+381,Pag-Asa,Brush/Shrubs,0
+382,Malisbong,Brush/Shrubs,0
+383,Ligaya,Annual Crop,0
+384,Ligaya,Brush/Shrubs,0
+385,Ligaya,NULL,0
+399,Burgos,NULL,0
+400,Pag-Asa,Brush/Shrubs,0
+401,Pag-Asa,Open Forest,0
+402,Pag-Asa,Open Forest,0
+403,San Agustin,inland water,0
+404,San Agustin,Grassland,0
+405,San Agustin,Grassland,0
+406,Claudio Salgado,Brush/Shrubs,0
+407,Claudio Salgado,Brush/Shrubs,0
+408,Claudio Salgado,inland water,0
+409,Burgos,inland water,0
+410,Burgos,Open Forest,0
+411,Burgos,Open Forest,0
+412,Pag-Asa,Open Forest,0
+413,Pag-Asa,Open Forest,0
+414,San Agustin,Brush/Shrubs,0
+415,San Agustin,Brush/Shrubs,0
+416,Ligaya,Brush/Shrubs,0
+417,Burgos,Brush/Shrubs,0
+418,Ilvita,Brush/Shrubs,0
+419,Ilvita,NULL,0
+431,Pag-Asa,NULL,0
+432,Pag-Asa,NULL,0
+433,Pag-Asa,NULL,0
+434,Pag-Asa,inland water,0
+435,Pag-Asa,Brush/Shrubs,0
+436,Pag-Asa,Open Forest,0
+437,Pag-Asa,Brush/Shrubs,0
+438,San Agustin,Open Forest,0
+439,San Agustin,Open Forest,0
+440,San Agustin,inland water,0
+441,Claudio Salgado,Brush/Shrubs,0
+442,Ibud,Built Up,0
+443,Ibud,Grassland,0
+444,Pag-Asa,Open Forest,0
+445,Pag-Asa,Open Forest,0
+446,Pag-Asa,Open Forest,0
+447,Pag-Asa,Open Forest,0
+448,Pag-Asa,Open Forest,0
+449,San Agustin,Brush/Shrubs,0
+450,Batong Buhay,Brush/Shrubs,0
+451,Ilvita,Built Up,0
+452,Lagnas,Brush/Shrubs,0
+453,Paetan,Brush/Shrubs,0
+454,San Francisco,NULL,0
+464,Pag-Asa,NULL,0
+465,Pag-Asa,Brush/Shrubs,0
+466,Pag-Asa,Brush/Shrubs,0
+467,Pag-Asa,inland water,0
+468,San Agustin,Brush/Shrubs,0
+469,San Agustin,Brush/Shrubs,0
+470,San Agustin,Brush/Shrubs,0
+471,San Agustin,Grassland,0
+472,San Agustin,Open Forest,0
+473,San Agustin,Open Forest,0
+474,San Agustin,Open Forest,0
+475,San Agustin,Open Forest,0
+476,Santo Niño,Grassland,0
+477,Buenavista,Open Forest,0
+478,Poblacion (Lumangbayan),Open Forest,0
+479,Pag-Asa,Open Forest,0
+480,Pag-Asa,Open Forest,0
+481,Pag-Asa,Brush/Shrubs,0
+482,Pag-Asa,Brush/Shrubs,0
+483,Batong Buhay,Brush/Shrubs,0
+484,Batong Buhay,Brush/Shrubs,0
+485,San Francisco,Brush/Shrubs,0
+486,San Francisco,Open Forest,0
+487,Batong Buhay,Open Forest,0
+488,Batong Buhay,NULL,0
+497,San Agustin,NULL,0
+498,Batong Buhay,Grassland,0
+499,Batong Buhay,Brush/Shrubs,0
+500,Batong Buhay,Grassland,0
+501,Batong Buhay,Grassland,0
+502,Malisbong,inland water,0
+503,Malisbong,Brush/Shurbs,0
+504,Malisbong,Grassland,0
+505,Malisbong,Grassland,0
+506,Malisbong,Brush/Shrubs,0
+507,Ligaya,Grassland,0
+508,San Agustin,Brush/Shrubs,0
+509,Batong Buhay,Brush/Shrubs,0
+510,Batong Buhay,inland water,0
+511,Poblacion (Lumangbayan),inland water,0
+512,Santa Lucia,Open/barren,0
+513,Santa Lucia,Open Forest,0
+514,Pag-Asa,Open Forest,0
+515,Pag-Asa,Open Forest,0
+516,Pag-Asa,Open Forest,0
+517,Pag-Asa,Brush/Shrubs,0
+518,Pag-Asa,Brush/Shurbs,0
+519,Batong Buhay,Brush/Shrubs,0
+520,Malisbong,Open Forest,0
+521,Malisbong,Open Forest,0
+522,Malisbong,Open Forest,0
+523,Malisbong,Open Forest,0
+530,Ligaya,Grassland,0
+531,Burgos,Grassland,0
+532,Burgos,Grassland,0
+533,Burgos,inland water,0
+534,Pag-Asa,inland water,0
+535,Pag-Asa,inland water,0
+536,Pag-Asa,inland water,0
+537,Pag-Asa,Grassland,0
+538,Pag-Asa,Brush/Shrubs,0
+539,Pag-Asa,Brush/Shrubs,0
+540,Pag-Asa,Brush/Shrubs,0
+541,Pag-Asa,Grassland,0
+542,Batong Buhay,Grassland,0
+543,Batong Buhay,Brush/Shrubs,0
+544,Batong Buhay,inland water,0
+545,Santa Lucia,Grassland,0
+546,Santa Lucia,Brush/Shrubs,0
+547,Claudio Salgado,Open Forest,0
+548,Claudio Salgado,inland water,0
+549,Pag-Asa,Mangrove Open Forest,0
+550,San Agustin,Mangrove Open Forest,0
+551,San Agustin,Brush/Shrubs,0
+552,San Agustin,Open Forest,0
+553,Malisbong,Brush/Shrubs,0
+554,Malisbong,Brush/Shrubs,0
+555,Malisbong,Open Forest,0
+556,Ligaya,Open Forest,0
+557,Ligaya,Open Forest,0
+564,Pag-Asa,Grassland,0
+565,Pag-Asa,Grassland,0
+566,Pag-Asa,Grassland,0
+567,Pag-Asa,Grassland,0
+568,San Agustin,inland water,0
+569,San Agustin,Brush/Shrubs,0
+570,San Agustin,Brush/Shrubs,0
+571,San Agustin,Open Forest,0
+572,San Agustin,Frrest,0
+573,San Agustin,Open Forest,0
+574,Batong Buhay,Open Forest,0
+575,Batong Buhay,Grassland,0
+576,Batong Buhay,Brush/Shrubs,0
+577,Batong Buhay,Brush/Shrubs,0
+578,Malisbong,Grassland,0
+579,Malisbong,Grassland,0
+580,Claudio Salgado,inland water,0
+581,Claudio Salgado,Brush/Shubs,0
+582,Claudio Salgado,Open Forest,0
+583,Claudio Salgado,Brush/Shrubs,0
+584,Batong Buhay,inland water,0
+585,Batong Buhay,Open Forest,0
+586,Batong Buhay,Forres,0
+587,Batong Buhay,Open Forest,0
+588,Malisbong,Open Forest,0
+589,Malisbong,Brush/Shrubs,0
+590,Ligaya,Open Forest,0
+591,Ligaya,Open Forest,0
+592,Ligaya,Open Forest,0
+593,Burgos,Open Forest,0
+597,Malisbong,NULL,0
+598,Malisbong,Grassland,0
+599,Malisbong,Grassland,0
+600,Malisbong,Grassland,0
+601,Ligaya,Grassland,0
+602,Ligaya,inland water,0
+603,Ligaya,Brush/Shrubs,0
+604,Burgos,Brush/Shrubs,0
+605,Burgos,Marshland/Swamp,0
+606,Burgos,Open Forest,0
+607,Pag-Asa,Open Forest,0
+608,Pag-Asa,Open Forest,0
+609,Pag-Asa,Grassland,0
+610,Pag-Asa,Grassland,0
+611,Pag-Asa,Grassland,0
+612,Malisbong,Grassland,0
+613,Malisbong,inland water,0
+614,Malisbong,inland water,0
+615,Ibud,Brush/Shrubs,0
+616,Ibud,Grassland,0
+617,Santo Niño,Grasland,0
+618,Santo Niño,Brush/Shrubs,0
+619,Malisbong,inland water,0
+620,Malisbong,Brush/Shrubs,0
+621,Malisbong,Open Forest,0
+622,Malisbong,Open Forest,0
+623,Ligaya,Grassland,0
+624,Burgos,Brush/Shrubs,0
+625,Burgos,Open Forest,0
+626,Burgos,Brush/Shrubs,0
+627,Pag-Asa,Brush/Shrubs,0
+631,Pag-Asa,NULL,0
+632,Pag-Asa,Open Forest,0
+633,Pag-Asa,Grassland,0
+634,Pag-Asa,Grassland,0
+635,Pag-Asa,Grassland,0
+636,Pag-Asa,Grassland,0
+637,San Agustin,inland water,0
+638,San Agustin,inland water,0
+639,San Agustin,Open Forest,0
+640,San Agustin,Open Forest,0
+641,San Agustin,Open Forest,0
+642,San Agustin,Open Forest,0
+643,Batong Buhay,Open Forest,0
+644,Batong Buhay,Grasslad,0
+645,Batong Buhay,Grassland,0
+646,Batong Buhay,Grassland,0
+647,Ligaya,Grassland,0
+648,Ligaya,inland water,0
+649,Burgos,inland water,0
+650,Poblacion (Lumangbayan),Brush/Shrubs,0
+651,Poblacion (Lumangbayan),Brush/Shrubs,0
+652,Santa Lucia,Grassland,0
+653,Santa Lucia,Grassland,0
+654,Ligaya,Grassland,0
+655,Ligaya,Brush/Shrubs,0
+656,Burgos,Brush/Shrubs,0
+657,Burgos,Grassland,0
+658,Burgos,Grassland,0
+659,Burgos,Brush/Shrubs,0
+660,Burgos,Grassland,0
+661,Pag-Asa,Brush/Shrubs,0
+662,Paetan,Brush/Shrubs,0
+663,San Francisco,Brush/Shrubs,0
+666,Malisbong,Open Forest,0
+667,Malisbong,Open Forest,0
+668,Malisbong,Open Forest,0
+669,Malisbong,Grassland,0
+670,Malisbong,Grassland,0
+671,Ligaya,Grassland,0
+672,Ligaya,Open Forest,0
+673,Burgos,open foret,0
+674,Burgos,Open Forest,0
+675,Burgos,Brush/Shrubs,0
+676,Pag-Asa,Open Forest,0
+677,Pag-Asa,Open Forest,0
+678,Pag-Asa,Brush/Shrubs,0
+679,Pag-Asa,Brush/Shrubs,0
+680,Pag-Asa,Grassland,0
+681,Burgos,Grassland,0
+682,Burgos,Grassland,0
+683,Pag-Asa,inland water,0
+684,Pag-Asa,Brush/Shrubs,0
+685,Santa Lucia,Grassland,0
+686,Santa Lucia,Grassland,0
+687,Santa Lucia,Grassland,0
+688,San Nicolas,Grassland,0
+689,Pag-Asa,Grassland,0
+690,Pag-Asa,Brush/Shrubs,0
+691,Pag-Asa,Grassland,0
+692,Pag-Asa,Grassland,0
+693,Pag-Asa,Grassland,0
+694,Pag-Asa,Brush/Shrubs,0
+695,San Francisco,bruh/shrubs,0
+696,San Francisco,Brush/Shrubs,0
+697,Batong Buhay,Brush/Shrubs,0
+698,Batong Buhay,NULL,0
+701,Pag-Asa,Open Forest,0
+702,Pag-Asa,Open Forest,0
+703,Pag-Asa,Open Forest,0
+704,Pag-Asa,Brush/Shrubs,0
+705,San Agustin,Brush/Shrubs,0
+706,San Agustin,Grassland,0
+707,San Agustin,Open Forest,0
+708,San Agustin,Closed Forest,0
+709,San Agustin,Open Forest,0
+710,San Agustin,Brush/Shrubs,0
+711,San Agustin,Brush/Shrubs,0
+712,San Agustin,Brush/Shrubs,0
+713,Batong Buhay,Open Forest,0
+714,Batong Buhay,Brush/Shrubs,0
+715,Batong Buhay,Grassland,0
+716,Pag-Asa,Grassland,0
+717,Pag-Asa,marshland,0
+718,San Agustin,Grassland,0
+719,San Agustin,Grassland,0
+720,San Nicolas,Grassland,0
+721,Claudio Salgado,Grassland,0
+722,Claudio Salgado,Grassland,0
+723,Claudio Salgado,Brush/Shrubs,0
+724,Pag-Asa,Brush/Shrubs,0
+725,Pag-Asa,Brush/Shrubs,0
+726,Pag-Asa,Grassland,0
+727,Pag-Asa,Grassland,0
+728,Pag-Asa,Brush/Shrubs,0
+729,Pag-Asa,Brush/Shrubs,0
+730,Pag-Asa,Brush/Shrubs,0
+731,Malisbong,Brush/Shrubs,0
+732,Malisbong,Grassland,0
+733,Malisbong, Brush/Shrubs,0
+736,Batong Buhay,NULL,0
+737,Malisbong,Open Forest,0
+738,Malisbong,Open Forest,0
+739,Malisbong,Open Forest,0
+740,Malisbong,Brush/Shrubs,0
+741,Ligaya,inland water,0
+742,Ligaya,Open Forest,0
+743,Ligaya,open fores,0
+744,Burgos,Open Forest,0
+745,Burgos,Brush/Shrubs,0
+746,Burgos,Open Forest,0
+747,Pag-Asa,Open Forest,0
+748,Pag-Asa,Open Forest,0
+749,Pag-Asa,Grassland,0
+750,San Agustin,Grassland,0
+751,San Agustin,Grassland,0
+752,San Agustin,marshland/swamp,0
+753,San Agustin,marshland/swamp,0
+754,San Agustin,Grassland ,0
+755,Victoria,Grassland,0
+756,Tagumpay,Grassland,0
+757,Tagumpay,Grassland,0
+758,Ibud,Grassland,0
+759,Pag-Asa,Grassland,0
+760,Pag-Asa,Grassland,0
+761,Pag-Asa,Grassland,0
+762,Pag-Asa,Grassland,0
+763,Pag-Asa,Brush/Shrubs,0
+764,Pag-Asa,Brush/Shrubs,0
+765,Malisbong,Brush/Shrubs,0
+766,Malisbong,Grassland,0
+767,Ligaya,Grassland,0
+768,Ligaya,NULL,0
+772,Pag-Asa,Annual Crop,0
+773,Pag-Asa,Open Forest,0
+774,Pag-Asa,close forest,0
+775,Pag-Asa,Brush/Shrubs,0
+776,Pag-Asa,close forest,0
+777,San Agustin,close forest,0
+778,San Agustin,close forest,0
+779,San Agustin,Open Forest,0
+780,San Agustin,Open Forest,0
+781,San Agustin,Open Forest,0
+782,San Agustin,Open Forest,0
+783,San Agustin,Open Forest,0
+784,San Agustin,Open Forest,0
+785,San Agustin,Brush/Shrubs,0
+786,San Agustin,Brush/Shrubs,0
+787,San Agustin,Brush/Shrubs,0
+788,Batong Buhay,Grassland,0
+789,Batong Buhay,Grassland,0
+790,Santo Niño,Grassland,0
+791,Santo Niño,Grassland,0
+792,Santo Niño,Grassland,0
+793,Tuban,Grassland,0
+794,Pag-Asa,Grassland,0
+795,Pag-Asa,Grassland,0
+796,San Agustin,Grassland,0
+797,San Agustin,Brush/Shrubs,0
+798,San Agustin,Open Forest,0
+799,Pag-Asa,Brush/Shrubs,0
+800,Pag-Asa,Grassland,0
+801,Ligaya,Grassland,0
+802,Burgos,Grassland,0
+803,Burgos,Brush/Shrubs,0
+807,Batong Buhay,NULL,0
+808,Batong Buhay,Open Forest,0
+809,Batong Buhay,Closed Forest,0
+810,Batong Buhay,Open Forest,0
+811,Malisbong,Closed Forest,0
+812,Malisbong,Closed Forest,0
+813,Malisbong,Open Forest,0
+814,Malisbong,Open Forest,0
+815,Malisbong,Open Forest,0
+816,Ligaya,Open Forest,0
+817,Ligaya,Open Forest,0
+818,Burgos,Open Forest,0
+819,Batong Buhay,Open Forest,0
+820,Batong Buhay,Brush/Shrubs,0
+821,Batong Buhay,Brush/Shrubs,0
+822,Malisbong,Grassland,0
+823,Malisbong,Grassland,0
+824,Malisbong,Grassland,0
+825,Santa Lucia,Grassland,0
+826,Santa Lucia,Grassland,0
+827,Santa Lucia,Grassland,0
+828,Santa Lucia,Grassland,0
+829,San Agustin,Open Forest,0
+830,Batong Buhay,Grassland,0
+831,Batong Buhay,Grassland,0
+832,Batong Buhay,Grassland,0
+833,Pag-Asa,Grassland,0
+834,Pag-Asa,Grassland,0
+835,Pag-Asa,Grassland,0
+836,Burgos,Grassland,0
+837,Burgos,Grassland,0
+838,Pag-Asa,NULL,0
+843,Burgos,NULL,0
+844,Burgos,Open Forest,0
+845,Pag-Asa,Closed Forest,0
+846,Pag-Asa,Closed Forest,0
+847,Pag-Asa,Closed Forest,0
+848,Pag-Asa,Open Forest,0
+849,Pag-Asa,Open Forest,0
+850,Pag-Asa,Open Forest,0
+851,Pag-Asa,Open Forest,0
+852,San Agustin,Open Forest,0
+853,San Agustin,Open Forest,0
+854,Malisbong,Open Forest,0
+855,Ligaya,Open Forest,0
+856,Ligaya,Open Forest,0
+857,Burgos,Open Forest,0
+858,Burgos,Open Forest,0
+859,Burgos,Grassland,0
+860,Santa Lucia,Grassland,0
+861,San Nicolas,Grassland,0
+862,San Nicolas,Grassland,0
+863,Claudio Salgado,Grassland,0
+864,Batong Buhay,Grassland,0
+865,Malisbong,Grassland,0
+866,Malisbong,Grassland,0
+867,Malisbong,Grassland,0
+868,Malisbong,Grassland,0
+869,Pag-Asa,Grassland,0
+870,Pag-Asa,Grassland,0
+871,Pag-Asa,Grassland,0
+872,Pag-Asa,Grassland,0
+873,San Agustin,Grassland,0
+878,San Agustin,NULL,0
+879,San Agustin,Open Forest,0
+880,San Agustin,Open Forest,0
+881,San Agustin,Open Forest,0
+882,San Agustin,Open Forest,0
+883,San Agustin,Closed Forest,0
+884,San Agustin,Closed Forest,0
+885,Batong Buhay,Closed Forest,0
+886,Batong Buhay,Open Forest,0
+887,Pag-Asa,Open Forest,0
+888,Pag-Asa,Open Forest,0
+889,Pag-Asa,Open Forest,0
+890,San Agustin,Open Forest,0
+891,San Agustin,Open Forest,0
+892,San Agustin,Open Forest,0
+893,San Agustin,Grassland,0
+894,San Agustin,Grassland,0
+895,Claudio Salgado,Grassland,0
+896,Ilvita,Grassland,0
+897,Victoria,Grassland,0
+898,Victoria,Grassland,0
+899,Ligaya,Grassland,0
+900,Ligaya,Grassland,0
+901,Burgos,Grassland,0
+902,Burgos,Grassland,0
+903,Pag-Asa,Grassland,0
+904,San Agustin,Grassland,0
+905,San Agustin,Grassland,0
+906,San Agustin,Grassland,0
+907,San Francisco,Grassland,0
+908,San Francisco,NULL,0
+914,Batong Buhay,NULL,0
+915,Batong Buhay,Open Forest,0
+916,Malisbong,Open Forest,0
+917,Malisbong,Open Forest,0
+918,Malisbong,Closed Forest,0
+919,Malisbong,Closed Forest,0
+920,Malisbong,Closed Forest,0
+921,Ligaya,Open Forest,0
+922,San Agustin,Open Forest,0
+923,San Agustin,Open Forest,0
+924,San Agustin,Open Forest,0
+925,San Agustin,Open Forest,0
+926,San Agustin,Open Forest,0
+927,Batong Buhay,Open Forest,0
+928,Batong Buhay,Open Forest,0
+929,Batong Buhay,Grassland,0
+930,Tagumpay,Grassland,0
+931,San Vicente,Grassland,0
+932,San Vicente,Grassland,0
+933,San Vicente,Grassland,0
+934,Burgos,Grassland,0
+935,Burgos,Grassland,0
+936,Pag-Asa,Grassland,0
+937,Pag-Asa,Grassland,0
+938,Pag-Asa,Grassland,0
+939,Batong Buhay,Grassland,0
+940,Batong Buhay,Grassland,0
+941,Batong Buhay,Grassland,0
+942,Batong Buhay,Grassland,0
+943,Batong Buhay,Grassland,0
+949,Ligaya,NULL,0
+950,Burgos,Open Forest,0
+951,Burgos,Open Forest,0
+952,Burgos,Closed Forest,0
+953,Pag-Asa,Closed Forest,0
+954,Pag-Asa,Open Forest,0
+955,Pag-Asa,Open Forest,0
+956,Batong Buhay,Open Forest,0
+957,Batong Buhay,Open Forest,0
+958,Malisbong,Open Forest,0
+959,Malisbong,Open Forest,0
+960,Malisbong,Open Forest,0
+961,Malisbong,Open Forest,0
+962,Malisbong,Open Forest,0
+963,Ligaya,Grassland,0
+964,Ligaya,Grassland,0
+965,Tuban,Open Forest,0
+966,Tuban,Grassland,0
+967,Tuban,Grassland,0
+968,Tuban,Grassland,0
+969,Pag-Asa,Grassland,0
+970,Pag-Asa,Grassland,0
+971,Pag-Asa,Brush/Shrubs,0
+972,Pag-Asa,Grassland,0
+973,Pag-Asa,Grassland,0
+974,Batong Buhay,Grassland,0
+975,Batong Buhay,Grassland,0
+976,Malisbong,Grassland,0
+977,Malisbong,Grassland,0
+978,Malisbong,NULL,0
+986,Pag-Asa,Open Forest,0
+987,Pag-Asa,Open Forest,0
+988,San Agustin,Open Forest,0
+989,San Agustin,Open Forest,0
+990,San Agustin,Open Forest,0
+991,Burgos,Open Forest,0
+992,Burgos,Open Forest,0
+993,Burgos,Open Forest,0
+994,Pag-Asa,Open Forest,0
+995,Pag-Asa,Open Forest,0
+996,Pag-Asa,Open Forest,0
+997,San Agustin,Open Forest,0
+998,San Agustin,Open Forest,0
+999,San Agustin,Grassland,0
+1000,Santa Lucia,Open Forest,0
+1001,Santa Lucia,Grassland,0
+1002,Santa Lucia,Grassland,0
+1003,San Nicolas,Grassland,0
+1004,San Nicolas,Grassland,0
+1005,Pag-Asa,Grassland,0
+1006,Pag-Asa,Grassland,0
+1007,Pag-Asa,Grassland,0
+1008,Pag-Asa,Grassland,0
+1009,Malisbong,Grassland,0
+1010,Malisbong,Grassland,0
+1011,Malisbong,Grassland,0
+1012,Ligaya,Grassland,0
+1013,Ligaya,Grassland,0
+1020,San Agustin,NULL,0
+1021,San Agustin,Open Forest,0
+1022,San Agustin,Open Forest,0
+1023,San Agustin,Open Forest,0
+1024,San Agustin,Open Forest,0
+1025,San Agustin,Open Forest,0
+1026,San Agustin,Brush/Shrubs,0
+1027,San Agustin,Open Forest,0
+1028,San Agustin,Open Forest,0
+1029,San Agustin,Open Forest,0
+1030,San Agustin,Open Forest,0
+1031,San Agustin,Open Forest,0
+1032,San Agustin,Open Forest,0
+1033,Batong Buhay,Open Forest,0
+1034,San Nicolas,Open Forest,0
+1035,Ilvita,Open Forest,0
+1036,Ilvita,Grassland,0
+1037,Victoria,Grassland,0
+1038,Victoria,Grassland,0
+1039,Pag-Asa,Grassland,0
+1040,Pag-Asa,Grassland,0
+1041,Pag-Asa,Grassland,0
+1042,San Agustin,Grassland,0
+1043,San Agustin,Grassland,0
+1044,Malisbong,Grassland,0
+1045,Malisbong,Grassland,0
+1046,Ligaya,Grassland,0
+1047,Burgos,Grassland,0
+1048,Burgos,NULL,0
+1056,San Agustin,NULL,0
+1057,Batong Buhay,Open Forest,0
+1058,Batong Buhay,Open Forest,0
+1059,Batong Buhay,Open Forest,0
+1060,Batong Buhay,Open Forest,0
+1061,Batong Buhay,Open Forest,0
+1062,Batong Buhay,Open Forest,0
+1063,Batong Buhay,Open Forest,0
+1064,Malisbong,Open Forest,0
+1065,Malisbong,Open Forest,0
+1066,Malisbong,Open Forest,0
+1067,Malisbong,Open Forest,0
+1068,Ligaya,Open Forest,0
+1069,Ligaya,Open Forest,0
+1070,Paetan,Open Forest,0
+1071,Paetan,Open Forest,0
+1072,San Vicente,Open Forest,0
+1073,San Vicente,Grassland,0
+1074,San Vicente,Grassland,0
+1075,San Agustin,Open Forest,0
+1076,San Agustin,Grassland,0
+1077,Batong Buhay,Grassland,0
+1078,Batong Buhay,Grassland,0
+1079,Malisbong,Grassland,0
+1080,Ligaya,Grassland,0
+1081,Burgos,Grassland,0
+1082,Burgos,Grassland,0
+1083,Pag-Asa,Grassland,0
+1091,Batong Buhay,Open Forest,0
+1092,Batong Buhay,Open Forest,0
+1093,Malisbong,Open Forest,0
+1094,Burgos,Open Forest,0
+1095,Burgos,Open Forest,0
+1096,Burgos,Open Forest,0
+1097,Burgos,Open Forest,0
+1098,Pag-Asa,Open Forest,0
+1099,San Agustin,Open Forest,0
+1100,San Agustin,Open Forest,0
+1101,San Agustin,Open Forest,0
+1102,San Agustin,Open Forest,0
+1103,San Agustin,Open Forest,0
+1104,Tuban,Open Forest,0
+1105,Tuban,Open Forest,0
+1106,Tuban,Open Forest,0
+1107,Tuban,Open Forest,0
+1108,Tuban,Open Forest,0
+1109,Batong Buhay,Closed Forest,0
+1110,Batong Buhay,Grassland,0
+1111,Malisbong,Grassland,0
+1112,Malisbong,Grassland,0
+1113,Malisbong,Grassland,0
+1114,Ligaya,Grassland,0
+1115,Burgos,Grassland,0
+1116,Pag-Asa,Grassland,0
+1117,Pag-Asa,Grassland,0
+1118,Pag-Asa,NULL,0
+1126,Malisbong,NULL,0
+1127,Malisbong,Open Forest,0
+1128,Malisbong,Open Forest,0
+1129,San Agustin,Open Forest,0
+1130,San Agustin,Open Forest,0
+1131,San Agustin,Open Forest,0
+1132,San Agustin,Open Forest,0
+1133,San Agustin,Open Forest,0
+1134,San Agustin,Open Forest,0
+1135,Batong Buhay,Open Forest,0
+1136,Batong Buhay,Open Forest,0
+1137,Batong Buhay,Open Forest,0
+1138,Batong Buhay,Open Forest,0
+1139,Batong Buhay,Brush/Shrubs,0
+1140,Malisbong,Open Forest,0
+1141,General Emilio Aguinaldo,Open Forest,0
+1142,General Emilio Aguinaldo,Open Forest,0
+1143,General Emilio Aguinaldo,Open Forest,0
+1144,Ilvita,Closed Forest,0
+1145,Malisbong,Open Forest,0
+1146,Malisbong,Open Forest,0
+1147,Ligaya,Grassland,0
+1148,Ligaya,Grassland,0
+1149,Burgos,Grassland,0
+1150,Burgos,Grassland,0
+1151,Pag-Asa,Grassland,0
+1152,Pag-Asa,Grassland,0
+1153,Pag-Asa,Grassland,0
+1154,San Agustin,NULL,0
+1162,Ligaya,Water,0
+1163,Malisbong,Water,0
+1164,Malisbong,Open Forest,0
+1165,Malisbong,Open Forest,0
+1166,Malisbong,Open Forest,0
+1167,Malisbong,Open Forest,0
+1168,Ligaya,Open Forest,0
+1169,Ligaya,Open Forest,0
+1170,Burgos,Open Forest,0
+1171,Burgos,Open Forest,0
+1172,Burgos,Open Forest,0
+1173,San Agustin,Open Forest,0
+1174,Ilvita,Brush/Shrubs,0
+1175,Ilvita,Open Forest,0
+1176,Victoria,Open Forest,0
+1177,Victoria,Open Forest,0
+1178,Paetan,Open Forest,0
+1179,Burgos,Open Forest,0
+1180,Burgos,Open Forest,0
+1181,Burgos,Open Forest,0
+1182,Pag-Asa,Open Forest,0
+1183,Pag-Asa,Grassland,0
+1184,Pag-Asa,Grassland,0
+1185,Pag-Asa,Grassland,0
+1186,San Agustin,Grassland,0
+1187,San Agustin,Grassland,0
+1188,Batong Buhay,NULL,0
+1197,San Agustin,NULL,0
+1198,San Agustin,Open Forest,0
+1199,San Agustin,Open Forest,0
+1200,San Agustin,Open Forest,0
+1201,San Agustin,Open Forest,0
+1202,San Agustin,Open Forest,0
+1203,San Agustin,Open Forest,0
+1204,San Agustin,Open Forest,0
+1205,San Agustin,Open Forest,0
+1206,San Agustin,Open Forest,0
+1207,San Agustin,Open Forest,0
+1208,San Agustin,Open Forest,0
+1209,Batong Buhay,Open Forest,0
+1210,San Vicente,Open Forest,0
+1211,San Vicente,Open Forest,0
+1212,San Vicente,Open Forest,0
+1213,Batong Buhay,Open Forest,0
+1214,Batong Buhay,Open Forest,0
+1215,Pag-Asa,Open Forest,0
+1216,Pag-Asa,Brush/Shrubs,0
+1217,Pag-Asa,Open Forest,0
+1218,Pag-Asa,Brush/Shrubs,0
+1219,Pag-Asa,Brush/Shrubs,0
+1220,Pag-Asa,Open Forest,0
+1221,Batong Buhay,Grassland,0
+1222,Batong Buhay,Grassland,0
+1223,Malisbong,Grassland,0
+1224,Malisbong,NULL,0
+1232,Batong Buhay,NULL,0
+1233,Batong Buhay,Open Forest,0
+1234,Batong Buhay,Open Forest,0
+1235,Batong Buhay,Open Forest,0
+1236,Malisbong,Open Forest,0
+1237,Malisbong,Open Forest,0
+1238,Malisbong,Open Forest,0
+1239,Malisbong,Open Forest,0
+1240,Ligaya,Open Forest,0
+1241,Ligaya,Open Forest,0
+1242,Burgos,Open Forest,0
+1243,Burgos,Open Forest,0
+1244,Tuban,Open Forest,0
+1245,Tuban,Open Forest,0
+1246,Malisbong,Open Forest,0
+1247,Malisbong,Open Forest,0
+1248,Malisbong,Open Forest,0
+1249,Pag-Asa,Open Forest,0
+1250,Pag-Asa,Brush/Shrubs,0
+1251,Pag-Asa,Brush/Shrubs,0
+1252,Pag-Asa,Open Forest,0
+1253,Pag-Asa,Open Forest,0
+1254,Pag-Asa,Brush/Shrubs,0
+1255,Pag-Asa,Grassland,0
+1256,Malisbong,Grassland,0
+1257,Malisbong,Grassland,0
+1258,Malisbong,NULL,0
+1268,Burgos,NULL,0
+1269,Burgos,Open Forest,0
+1270,San Agustin,Open Forest,0
+1271,San Agustin,Open Forest,0
+1272,San Agustin,Open Forest,0
+1273,San Agustin,Open Forest,0
+1274,San Agustin,Open Forest,0
+1275,San Agustin,Open Forest,0
+1276,San Agustin,Open Forest,0
+1277,San Agustin,Open Forest,0
+1278,San Agustin,Open Forest,0
+1279,San Agustin,Open Forest,0
+1280,General Emilio Aguinaldo,Open Forest,0
+1281,Ligaya,Open Forest,0
+1282,Ligaya,Open Forest,0
+1283,Ilvita,Brush/Shrubs,0
+1284,Ilvita,Open Forest,0
+1285,Pag-Asa,Brush/Shrubs,0
+1286,Pag-Asa,Brush/Shrubs,0
+1287,Pag-Asa,Open Forest,0
+1288,San Agustin,Open Forest,0
+1289,Pag-Asa,Brush/Shrubs,0
+1290,Pag-Asa,Brush/Shrubs,0
+1291,Ligaya,Brush/Shrubs,0
+1292,Ligaya,Brush/Shrubs,0
+1293,Burgos,Brush/Shrubs,0
+1294,Burgos,NULL,0
+1303,San Agustin,NULL,0
+1304,San Agustin,NULL,0
+1305,Batong Buhay,NULL,0
+1306,Batong Buhay,NULL,0
+1307,Batong Buhay,NULL,0
+1308,Batong Buhay,NULL,0
+1309,Batong Buhay,Open Forest,0
+1310,Malisbong,Open Forest,0
+1311,Malisbong,Open Forest,0
+1312,Malisbong,Open Forest,0
+1313,Malisbong,Open Forest,0
+1314,Ilvita,Open Forest,0
+1315,Lagnas,Open Forest,0
+1316,Paetan,Open Forest,0
+1317,San Francisco,Open Forest,0
+1318,San Francisco,Brush/Shrubs,0
+1319,San Agustin,Open Forest,0
+1320,San Agustin,Brush/Shrubs,0
+1321,San Agustin,Brush/Shrubs,0
+1322,San Agustin,Open Forest,0
+1323,Batong Buhay,Open Forest,0
+1324,Pag-Asa,Brush/Shrubs,0
+1325,Pag-Asa,Brush/Shrubs,0
+1326,Burgos,Open Forest,0
+1327,Burgos,Brush/Shrubs,0
+1328,Pag-Asa,Brush/Shrubs,0
+1353,San Vicente,NULL,0
+1354,San Vicente,NULL,0
+1355,Batong Buhay,NULL,0
+1356,Batong Buhay,NULL,0
+1357,Batong Buhay,NULL,0
+1358,Malisbong,NULL,0
+1359,Pag-Asa,Brush/Shrubs,0
+1360,Pag-Asa,Brush/Shrubs,0
+1361,Pag-Asa,Open Forest,0
+1362,Pag-Asa,Open Forest,0
+1363,Pag-Asa,Brush/Shrubs,0
+1364,Pag-Asa,NULL,0
+1397,Pag-Asa,NULL,0
+1398,Pag-Asa,NULL,0

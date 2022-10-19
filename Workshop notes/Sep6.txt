@@ -1,0 +1,36 @@
+1. intro
+	- shape files --> Manila --> many districts
+	- PH standard geographic code --> important --> ID niya (city, barangay, etc.)
+	- use ^^ to join the data
+	- This example: JOIN CSV of each barangay and data from shape files
+
+2. process
+	a. shape file --> attribute table 
+	b. shape file: property -> joins --> ADM3 PCODE (use to join the data)
+	--> okay --> apply
+	add vaxx data to shapefile
+
+	CSV FIRST
+	
+	PSCG OF EACH BARANGAY
+
+3. sablayan
+	- drag shapefiles: check attribute table --> expression --> adm3_EN
+	-->
+	- create another shapefile: focuses on sablayan
+	right click --> export --> save selected features as
+	- check attribute table: all barangays --> copy psgc of each
+	-  
+	
+	
+TLDR:
+	- join layer 
+	- intersecting field: shapefile + CSV
+	- USE Shapefile + CSV DATA
+	- 
+	
+
+
+3. Q and A
+	- See DOH file
+	- 
